@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package>
+  <name>jaco2_description</name>
+  <version>1.0.0</version>
+  <description>
+      URDF description for Kinova MICO/JACO robot arms
+  </description>
+
+  <maintainer email="dekent@gatech.edu">David Kent</maintainer>
+
+  <license>BSD</license>
+
+  <url type="website">http://ros.org/wiki/jaco2_description</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <run_depend>urdf</run_depend>
+
+  <export>
+  </export>
+</package>
